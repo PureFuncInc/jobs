@@ -11,4 +11,4 @@
 * 目前我們正在找以下的職缺，期待你們的加入
 
 # Jobs
-* [[6萬起] UI / UX Designer](https://github.com/PureFuncInc/jobs/issues/1)
+* [[6萬~8萬] UI / UX Designer](https://github.com/PureFuncInc/jobs/issues/1)
